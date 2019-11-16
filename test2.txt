@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 0C46-F190
+
+ Directory of D:\jenkins_projects
+
+11/16/2019  08:03 AM    <DIR>          .
+11/16/2019  08:03 AM    <DIR>          ..
+11/12/2019  07:12 AM               674 Hello.class
+11/12/2019  06:50 AM               160 Hello.java
+11/16/2019  08:03 AM                 0 test2.txt
+               3 File(s)            834 bytes
+               2 Dir(s)  516,951,113,728 bytes free
